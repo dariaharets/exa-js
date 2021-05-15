@@ -42,6 +42,11 @@ body {
     width: 190px;
     background-color: #fff;
 }
+.button:hover{
+    background-color: #7e5aff;
+    border: 1px solid #fff;
+    color: #fff;
+}
 .wrapper {
     margin: 0 auto;
     width: 100%;
@@ -699,14 +704,4 @@ body {
             margin-left: 25px;
         }
     }
-}
-
-@media screen and(max-width: 992px){
-}
-
-@media screen and(max-width: 768px){
-
-}
-@media screen and(max-width: 500px){
-
 }

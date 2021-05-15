@@ -46,6 +46,12 @@ body {
   background-color: #fff;
 }
 
+.button:hover {
+  background-color: #7e5aff;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
 .wrapper {
   margin: 0 auto;
   width: 100%;
